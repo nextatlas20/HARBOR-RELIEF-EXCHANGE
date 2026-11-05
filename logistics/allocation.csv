@@ -1,0 +1,8 @@
+request_id,shelter,item,lot_id,expires,allocated_units
+REQ-101,North-Hall,water,LOT-W02,2142-09-19,20
+REQ-101,North-Hall,water,LOT-W01,2142-09-20,10
+REQ-105,Hill-Church,food,LOT-F01,2142-09-18,15
+REQ-102,East-School,water,LOT-W01,2142-09-20,25
+REQ-103,River-Center,blankets,LOT-B01,2142-12-01,18
+REQ-104,North-Hall,hygiene,LOT-H01,2142-10-02,8
+REQ-106,South-Gym,food,LOT-F01,2142-09-18,10
