@@ -1,0 +1,12 @@
+lot_id,item,expires,units
+LOT-W01,water,2142-09-20,35
+LOT-W02,water,2142-09-19,20
+LOT-B01,blankets,2142-12-01,18
+LOT-H01,hygiene,2142-10-02,12
+LOT-F01,food,2142-09-18,25
+LOT-D07,water,2142-09-25,10
+LOT-D07,water,2142-09-26,10
+LOT-B99,blankets,2142-09-17,50
+LOT-X01,batteries,2142-10-01,30
+BROKEN,food,2142-10-01
+LOT-H02,hygiene,2142-10-03,04
