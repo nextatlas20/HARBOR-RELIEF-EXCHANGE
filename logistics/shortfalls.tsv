@@ -1,0 +1,4 @@
+request_id	shelter	item	requested_units	allocated_units	unfilled_units
+REQ-102	East-School	water	40	25	15
+REQ-103	River-Center	blankets	20	18	2
+REQ-106	South-Gym	food	15	10	5
